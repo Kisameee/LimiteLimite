@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Limite.dir/card.c.o CMakeFiles/Limite.dir/welcome.c.o CMakeFiles/Limite.dir/server.c.o CMakeFiles/Limite.dir/server_utils.c.o  -o Limite 

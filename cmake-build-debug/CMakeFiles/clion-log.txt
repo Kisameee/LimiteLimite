@@ -1,0 +1,4 @@
+/home/soat/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/181.5281.33/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/soat/CLionProjects/Limite
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/soat/CLionProjects/Limite/cmake-build-debug
